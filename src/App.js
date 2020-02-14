@@ -13,7 +13,8 @@ function App() {
       <div>
         <Navbar />
         <Wrapper>
-          <Route exact path="/" component={About} />
+          <Route path="/" component={About}/>
+          <Route exact path="/ReactPetMatch" component={About} />
           <Route exact path="/about" component={About} />
           <Route exact path="/discover" component={Discover} />
           <Route exact path="/search" component={Search} />
