@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactPetMatch/static/css/main.97f1e7cb.chunk.css",
+    "main.js": "/ReactPetMatch/static/js/main.1cc15a69.chunk.js",
+    "main.js.map": "/ReactPetMatch/static/js/main.1cc15a69.chunk.js.map",
+    "runtime-main.js": "/ReactPetMatch/static/js/runtime-main.742fdbf8.js",
+    "runtime-main.js.map": "/ReactPetMatch/static/js/runtime-main.742fdbf8.js.map",
+    "static/js/2.43af81c8.chunk.js": "/ReactPetMatch/static/js/2.43af81c8.chunk.js",
+    "static/js/2.43af81c8.chunk.js.map": "/ReactPetMatch/static/js/2.43af81c8.chunk.js.map",
+    "index.html": "/ReactPetMatch/index.html",
+    "precache-manifest.f38b9edbd2ba29ffc8f47ccd14562bba.js": "/ReactPetMatch/precache-manifest.f38b9edbd2ba29ffc8f47ccd14562bba.js",
+    "service-worker.js": "/ReactPetMatch/service-worker.js",
+    "static/css/main.97f1e7cb.chunk.css.map": "/ReactPetMatch/static/css/main.97f1e7cb.chunk.css.map",
+    "static/js/2.43af81c8.chunk.js.LICENSE.txt": "/ReactPetMatch/static/js/2.43af81c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.742fdbf8.js",
+    "static/js/2.43af81c8.chunk.js",
+    "static/css/main.97f1e7cb.chunk.css",
+    "static/js/main.1cc15a69.chunk.js"
+  ]
+}
